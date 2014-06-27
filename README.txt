@@ -19,3 +19,11 @@ The program is a simple shell that runs in the command line
 that prompts the user to enter a command, with or without
 input/output redirection, and processes and executes the 
 user's command.
+
+To run this program:
+$ make
+$ ./prog2
+
+At any point during the execution of the program, you may
+quit by typing q and pressing return.
+
