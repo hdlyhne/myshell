@@ -4,7 +4,7 @@ By: Hannah Lyhne
 02/14/2014
 ------
 
-This program was written for CSCI 340, lab 2.
+This is my solution for lab 2 in CSCI 340.
 
 The program is made up of the following parts:
 1. print_prompt simply prints the prompt
